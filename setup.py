@@ -13,7 +13,7 @@ except ImportError:
 
 
 setup(  
-        name = 'ssm-simulators',
+        name = 'ssms',
         version='0.3.1',
         author = 'Alexander Fenger',
         url = 'https://github.com/AlexanderFengler/ssms',
