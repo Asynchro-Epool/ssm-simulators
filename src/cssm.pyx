@@ -15,6 +15,7 @@ cimport numpy as np
 import numbers
 #import pandas as pd
 
+np.import_array()
 DTYPE = np.float32
 
 cdef set_seed(random_state):
